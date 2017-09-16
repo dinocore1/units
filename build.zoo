@@ -1,0 +1,5 @@
+lib units 2.2.0 {
+  cmake {
+    BUILD_TESTS "OFF"
+  }
+}
